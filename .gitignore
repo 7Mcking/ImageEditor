@@ -16,6 +16,7 @@ CMakeLists.txt.user
 cmake-build-*/
 _testing/
 CMakeScripts/
+cmake-build-debug/
 
 #CLion
 .idea/
