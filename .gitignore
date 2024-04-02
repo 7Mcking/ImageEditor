@@ -1,0 +1,38 @@
+# C++
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeFiles/
+CMakeLists.txt.user
+cmake-build-*/
+_testing/
+CMakeScripts/
+
+#CLion
+.idea/
+*.iml
+
+# Others
+*.log
+*.bak
+*.bak2
+*.db
+*.sqlite
+*.sqlite2
+*.sqlite-journal
+*.sublime-*
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
