@@ -9,6 +9,8 @@ QT5
 ### Building and running
 ```git clone https://github.com/7Mcking/ImageEditor.git```
 
+```cd ImageEditor```
+
 ``` mkdir build && cd build```
 
 ```cmake ..```
