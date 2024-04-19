@@ -19,4 +19,4 @@ QT5
 
 ### Application 
 
-[Alt text](https://github.com/7Mcking/ImageEditor/blob/main/Resources/IMageVIewerExample.png)
+![Alt text](https://github.com/7Mcking/ImageEditor/blob/main/Resources/IMageVIewerExample.png)
